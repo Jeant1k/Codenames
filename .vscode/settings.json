@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.applescript": "shellscript",
+        "vector": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "iosfwd": "cpp",
+        "array": "cpp",
+        "compare": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "sstream": "cpp",
+        "codecvt": "cpp",
+        "locale": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "string_view": "cpp",
+        "queue": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp",
+        "deque": "cpp",
+        "random": "cpp"
+    }
+}
